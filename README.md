@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuying Blair Huang (@Blairhyy)
 - 👀 I’m interested in Robotics and Automation. 
-- 🌱 I’m currently learning Mechanical Engineering at McGill University. 
+- 🌱 I’m currently a Master's student in Mechanical Engineering at Stanford University. 
 - 💞️ I’m actively looking for any research/internship opportunities in Robotics field
 - 📫 Please reach me @ blairhyy@gmail.com
 
